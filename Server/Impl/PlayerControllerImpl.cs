@@ -2,10 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// 20210613 接入Git做版本管理
-/// 更改测试提交
-/// </summary>
+//git version
 public class PlayerControllerImpl : IPlayerController
 {
     private const float slippingDistance = 0.5f;//距离小于开始滑动
